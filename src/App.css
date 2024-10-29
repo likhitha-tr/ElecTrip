@@ -123,11 +123,6 @@ body {
   background-color: rgb(255, 220, 220);
   margin-bottom: 1rem;
 }
-
-
-
-
-
 @media only screen and (max-width: 1000px) {
   .container {
     flex-direction: column;
